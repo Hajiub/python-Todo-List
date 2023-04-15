@@ -12,7 +12,7 @@ Navigate to the directory containing the cloned repository.
 Run the following command to start the program:
 
 ```sh
-python todo_list.py
+python main.py
 ```
 The program will display a menu with the following options:
 
@@ -43,7 +43,7 @@ This option allows you to exit the program.
 The program also has a verbose mode which can be activated by passing the --verbose flag. This will display additional information about the program's actions.
 
 ```sh
-python todo_list.py --verbose
+python main.py --verbose
 ```
 # License
 This program is licensed under the MIT license.
